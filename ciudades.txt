@@ -2,3 +2,5 @@ Bogotá
 Cali
 Barranquilla
 Guadalajara
+Hamburguesa
+Café
